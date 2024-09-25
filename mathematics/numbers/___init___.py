@@ -1,1 +1,2 @@
-___all___ = ["whoami", "series"]
+__all__ = ["whoami", "series"]
+__name__ = ["Eli Thomas"]
